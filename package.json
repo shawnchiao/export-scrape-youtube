@@ -1,6 +1,6 @@
 {
-  "name": "youtube-scraper-data",
-  "version": "1.1.2",
+  "name": "export-youtube-scraper-data",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -14,7 +14,7 @@
     "youtube scraper",
     "youtube scraper data"
   ],
-  "author": "fsholehan",
+  "author": "Shawn",
   "license": "ISC",
   "dependencies": {
     "puppeteer": "^23.0.2"
@@ -23,10 +23,10 @@
   "description": "First, run the following command in your terminal to install all the necessary dependencies:",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fsholehan/scrape-youtube.git"
+    "url": "git+https://github.com/shawnchiao/export-scrape-youtube.git"
   },
   "bugs": {
-    "url": "https://github.com/fsholehan/scrape-youtube/issues"
+    "url": "https://github.com/shawnchiao/export-scrape-youtube/issues"
   },
-  "homepage": "https://github.com/fsholehan/scrape-youtube#readme"
+  "homepage": "https://github.com/shawnchiao/export-scrape-youtube#readme"
 }
